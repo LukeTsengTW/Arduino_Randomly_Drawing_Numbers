@@ -2,7 +2,7 @@
 
 I mainly use it to solve problems in my school life. For example, when a teacher needs to draw lots, they use a lottery box. Some students would secretly remove their number tags. To prevent this issue and ensure fair outcomes, I leveraged my programming skills and Arduino technology to address the problem.
 
-# Version（版本歷史）
+## Version（版本歷史）
 
 2024/03 ~ 2024/05：
 
@@ -50,12 +50,12 @@ I mainly use it to solve problems in my school life. For example, when a teacher
 
 - Fix some bugs, creating a new app (made by MIT app inventor) for this machine, can use bluetooth to control machine.
 
-# Code Reference（程式碼參考）
+## Code Reference（程式碼參考）
 
 Author Jason Chu, his website : https://blog.jmaker.com.tw/arduino-dfplayer-mp3/
 (我使用此作者的Mp3模組程式碼)
 
-# Librarys （函式庫）
+## Librarys （函式庫）
 
 TrueRandom : https://github.com/sirleech/TrueRandom
 
@@ -63,13 +63,13 @@ New-LiquidCrystal : https://github.com/fmalpartida/New-LiquidCrystal/tree/master
 
 DFPlayer Mini Mp3 by Makuna : https://www.arduino.cc/reference/en/libraries/dfplayer-mini-mp3-by-makuna/
 
-# MIT App Inventor
+## MIT App Inventor
 
 I used MIT App Inventor to make a App to realize the internet of things with ESP32.
 
 You can download the .aia file, and import it to do some test.
 
-# Material (reference) （素材（參考用））
+## Material (reference) （素材（參考用））
 
 - Arduino Uno x 1
 - Button x 3 (For Mode Change x 2, For Clear Record x 1) （給模式切換的 x 2，給清除打卡紀錄的 x 1）
@@ -78,13 +78,13 @@ You can download the .aia file, and import it to do some test.
 - DFPlayer Mini Mp3 x 1（Mp3 模組 -> sound_version_only）
 - Speaker x 1（喇叭 -> sound_version_only）
 
-# Comments Language & Introduction （註解語言）
+## Comments Language & Introduction （註解語言）
 
 Comments Language : Traditional Chinese
 
 註解語言：繁體中文
 
-# About program
+## About program
 
 This program is mainly used to solve problems encountered in school life. For instance, when a teacher conducts a draw to ask students questions, he requires a lottery box. However, some students may surreptitiously remove their lottery sticks, leading to an unfair situation.
 
@@ -97,5 +97,23 @@ In fact, this set of devices is widely accepted and actively used by many teache
 所以為了解決這樣的問題，我透過 Arduino 與寫程式來解決這樣的問題，算是一種生活上的應用。
 
 實際上這組裝置在班級上也被許多老師廣泛接受並且積極使用，有關於程式碼的部分，你可以隨意修改跟使用。
+
+## Screenshots
+
+First version:
+
+![first_version](https://github.com/user-attachments/assets/599badaf-23f0-4b71-b3c1-dba88ebe1cc5)
+
+Second version:
+
+![second_version](https://github.com/user-attachments/assets/e643b101-3977-45aa-9922-ba47aec56cca)
+
+Third version:
+
+![Third_version](https://github.com/user-attachments/assets/7ccb4bca-9d74-46fe-979b-f42ee1ae890b)
+
+fourth version (Bug fix and update hardware):
+
+![fourth_version](https://github.com/user-attachments/assets/2c72e473-2721-48e1-b1b6-e26a815644bd)
 
 made by LukeTseng ( 鼓山高中 _ 電腦社社長 ).
